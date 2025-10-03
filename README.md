@@ -1,6 +1,6 @@
 # 🚢 Análise Exploratório de Dados — Titanic
 
-**Resumo.** Projeto de Análise Exploratória (EDA) do dataset *Titanic*, realizado com Python (Pandas, NumPy) e visualizações com Seaborn e Plotly. Notebook pronto para abrir e rodar no Google Colab.
+**Projeto** de Análise Exploratória (EDA) do dataset *Titanic*, realizado com Python (Pandas, NumPy) e visualizações com Seaborn e Plotly. Notebook pronto para abrir e rodar no Google Colab.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Allanvs0/Titanic-Analise-de-Dados/blob/main/Titanic_Data_Analysis.ipynb)
 
@@ -10,8 +10,8 @@
 - Interpretações e conclusões
 
 ## Tecnologias / bibliotecas
-- Python 3.x  
-- pandas, numpy, seaborn, matplotlib, plotly, kaleido (opcional para salvar png)
+- Python  
+- pandas, numpy, seaborn, matplotlib, plotly
 
 ## 📌 Conclusões
 - A maioria dos passageiros **não sobreviveu** (61,6%).  
