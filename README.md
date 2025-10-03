@@ -26,6 +26,10 @@
 
 ---
 
+Para visualizar os gráficos interativos, abra o notebook no Google Colab
+
+---
+
 ## Como executar
 1. Clique em **Open in Colab** (badge acima) para abrir o notebook no Google Colab.  
 2. Ou clone o repositório e abra localmente:
