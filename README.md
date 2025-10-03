@@ -2,7 +2,7 @@
 
 **Resumo.** Projeto de Análise Exploratória (EDA) do dataset *Titanic*, realizado com Python (Pandas, NumPy) e visualizações com Seaborn e Plotly. Notebook pronto para abrir e rodar no Google Colab.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/SEU-USUARIO/titanic-data-analysis/blob/main/titanic-data-analysis.ipynb](https://colab.research.google.com/github/Allanvs0/Titanic-Analise-de-Dados/blob/main/Titanic_Data_Analysis.ipynb))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Allanvs0/Titanic-Analise-de-Dados/blob/main/Titanic_Data_Analysis.ipynb))
 
 ## Principais conteúdos
 - Carregamento e limpeza básica dos dados
