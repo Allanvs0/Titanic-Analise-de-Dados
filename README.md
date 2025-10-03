@@ -13,14 +13,13 @@
 - Python 3.x  
 - pandas, numpy, seaborn, matplotlib, plotly, kaleido (opcional para salvar png)
 
-## Como executar
-1. Clique em **Open in Colab** (badge acima) para abrir o notebook no Google Colab.  
-2. Ou clone o repositório e abra localmente:
-```bash
-git clone https://github.com/Allanvs0/Titanic-Analise-de-Dados.git
-
 ## 📌 Conclusões
 - A maioria dos passageiros **não sobreviveu** (61,6%).  
 - Mulheres tiveram uma **taxa de sobrevivência muito maior** que homens.  
 - Passageiros da **1ª classe** tiveram mais chances de sobreviver que os da 3ª classe.  
 
+## Como executar
+1. Clique em **Open in Colab** (badge acima) para abrir o notebook no Google Colab.  
+2. Ou clone o repositório e abra localmente:
+```bash
+git clone https://github.com/Allanvs0/Titanic-Analise-de-Dados.git
